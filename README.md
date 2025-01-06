@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nimafadaei
-- 👀 I’m interested in web design , specially wordpress and also aviation
+- 👀 I’m wordpress Designer & Developer !
 - 🌱 I’m currently learning Website programming with Html/css , Python , django and ...
 - 📫 you can reach me in nimaafadaei.ir 
 
