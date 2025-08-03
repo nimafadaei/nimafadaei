@@ -4,7 +4,7 @@
  * Plugin URI:        https://example.com/plugins/the-basics/
  * Description:       Converts JetBooking dates to Shamsi calendar.
  * Version:           1.0.0
- * Author:            Nima Fadaei (with Jules)
+ * Author:            Nima Fadaei
  * Author URI:        https://nimaafadaei.ir/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
