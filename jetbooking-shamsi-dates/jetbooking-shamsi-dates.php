@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       JetBooking Shamsi Dates
  * Plugin URI:        https://example.com/plugins/the-basics/
- * Description:       Converts JetBooking dates to Shamsi calendar.
+ * Description:       Converts JetBooking dates to Persian Shamsi calendar.
  * Version:           1.0.0
  * Author:            Nima Fadaei
  * Author URI:        https://nimaafadaei.ir/
