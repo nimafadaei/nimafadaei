@@ -1,9 +1,30 @@
-- 👋 Hi, I’m @nimafadaei
-- 👀 I’m wordpress Designer & Developer !
-- 🌱 I’m currently learning Website programming with Html/css , Python , django and ...
-- 📫 you can reach me in nimaafadaei.ir 
+const nimaFadaei = {
+  roles: ["Web Developer", "SEO Strategist", "Digital Marketer"],
+  brands: ["Nifa Web", "Nifa Gate"],
+  location: "Tehran, Iran",
+  
+  stack: {
+    webDesign: ["WordPress", "Elementor", "Bento Grids", "Glassmorphism"],
+    serverOps: ["Ubuntu", "Advanced Networking", "Tunneling"],
+    marketing: ["Technical SEO", "Content Strategy"],
+    superpowers: ["AI-Assisted Workflows", "Self-Taught Engineering"]
+  },
 
-<!---
-nimafadaei/nimafadaei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  currentFocus: "Crafting modern, lightning-fast, and non-cliché web experiences.",
+  
+  team: {
+    lead: "Nima",
+    creativeDirector: "Mars 🐈"
+  },
+
+  contact: {
+    website: "https://nimaafadaei.ir/",
+    linkedin: "https://www.linkedin.com/in/nimafadaei/"
+  },
+
+  init: function() {
+    console.log("Turning complex ideas into minimalist digital realities. Let's connect!");
+  }
+};
+
+nimaFadaei.init();
