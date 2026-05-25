@@ -1,6 +1,6 @@
 ```javascript
 const nimaFadaei = {
-  roles: ["Wordpress Web Developer", "SEO Strategist", "Digital Marketer", "Wordpress Themes & Plugins Developer"],
+  roles: ["Web Developer", "SEO Strategist", "Digital Marketer"],
   brands: ["Nifa Web", "Nifa Gate"],
   location: "Tehran, Iran",
   
@@ -19,8 +19,8 @@ const nimaFadaei = {
   },
 
   contact: {
-    website: "https://nimaafadaei.ir/",
-    linkedin: "https://www.linkedin.com/in/nimafadaei/"
+    website: "[https://nimaafadaei.ir/](https://nimaafadaei.ir/)",
+    linkedin: "[https://www.linkedin.com/in/nimafadaei/](https://www.linkedin.com/in/nimafadaei/)"
   },
 
   init: function() {
@@ -29,19 +29,13 @@ const nimaFadaei = {
 };
 
 nimaFadaei.init();
+```
 
+### 🌐 Socials
+[![Website](https://img.shields.io/badge/Website-14161A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nimaafadaei.ir/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimafadaei/)
 
-### 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-14161A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nimaafadaei.ir/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimafadaei/)
+### 💻 Tech Stack
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-D5114A?style=for-the-badge&logo=elementor&logoColor=white) ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Technical SEO](https://img.shields.io/badge/Technical_SEO-4285F4?style=for-the-badge&logo=google&logoColor=white) ![AI Workflows](https://img.shields.io/badge/AI_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 💻 Tech Stack:
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-D5114A?style=for-the-badge&logo=elementor&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![SEO](https://img.shields.io/badge/Technical_SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🔥 GitHub Stats:
+### 🔥 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimafadaei&theme=dark&hide_border=true&background=14161A)](https://github.com/nimafadaei)
