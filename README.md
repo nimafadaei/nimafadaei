@@ -1,6 +1,6 @@
 ```javascript
 const nimaFadaei = {
-  roles: ["Web Developer", "SEO Strategist", "Digital Marketer"],
+  roles: ["Wordpress Web Developer", "SEO Strategist", "Digital Marketer", "Wordpress Themes & Plugins Developer"],
   brands: ["Nifa Web", "Nifa Gate"],
   location: "Tehran, Iran",
   
