@@ -1,3 +1,4 @@
+```javascript
 const nimaFadaei = {
   roles: ["Web Developer", "SEO Strategist", "Digital Marketer"],
   brands: ["Nifa Web", "Nifa Gate"],
